@@ -1,5 +1,8 @@
 # Hi there 👋
 
+- 🔭 "I have no special talents. I am only passionately curious."
+- 🔭  Albert Einstein
+
 <!--
 **Alex-Rosa/Alex-Rosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
